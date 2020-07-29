@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">VLC</string>
+    <string name="app"> </string>
+    <string name="action_settings">Setari</string>
+    <string name="action_about">Despre</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="title_activity_detail">Detail Activity</string>
+    <string name="sendMQTT">Send MQTT</string>
+    <string name="mqtt_publish">Publish</string>
+    <string name="mqtt_client">MQTT Client</string>
+    <string name="mqtt_connect">Conectare Broker</string>
+    <string name="aboutpatterns">Despre</string>
+    <string name="mqtt_subscribe">Abonare Topic</string>
+    <string name="description"></string>
+
+    <string name="aboutText">For more information  \n
+                            please visit us on https://vlc-ir-rf.beia-consult.ro// \n </string>
+</resources>
